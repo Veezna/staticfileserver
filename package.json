@@ -1,0 +1,12 @@
+{
+  "name": "final-frontier-cms",
+  "version": "1.0.0",
+  "description": "node pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Cassidy",
+  "license": "ISC"
+}
